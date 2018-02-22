@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 15 18:03:00 2017
 
-@author: Joel Mauriths Kambey
+@author: Joel Mauriths Kambey, Tan Li Yang
 """
 import cv2
 import numpy as np
